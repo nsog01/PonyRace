@@ -1,2 +1,0 @@
-# PonyRace
-Created with CodeSandbox
